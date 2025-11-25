@@ -1,4 +1,4 @@
-
+Made For Educational Purpose only
   # Online Workshop Platform Prototype (Community)
 
   This is a code bundle for Online Workshop Platform Prototype (Community). The original project is available at 
